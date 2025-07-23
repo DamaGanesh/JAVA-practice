@@ -1,2 +1,2 @@
-# JAVA-practice
-java practice codes
+# PYTHON-practice
+python practice codes
